@@ -1,0 +1,3 @@
+/Users/mohit.battu/Mohit/Tetris_Game_Version/cmake-build-debug/CMakeFiles/Tetris_Game.dir
+/Users/mohit.battu/Mohit/Tetris_Game_Version/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mohit.battu/Mohit/Tetris_Game_Version/cmake-build-debug/CMakeFiles/rebuild_cache.dir
